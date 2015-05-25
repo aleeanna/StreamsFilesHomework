@@ -1,0 +1,2 @@
+To view the .NET Framework source code for this type, see the Reference Source. You can browse through the source code online, download the reference for offline viewing, and step through the sources (including patches and updates) during debugging; see instructions.
+Use the FileStream class to read from, write to, open, and close files on a file system, and to manipulate other file-related operating system handles, including pipes, standard input, and standard output. You can use the Read, Write, CopyT

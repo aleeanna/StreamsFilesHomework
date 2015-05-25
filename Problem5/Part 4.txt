@@ -1,0 +1,2 @@
+d write operations, the UI thread is still not blocked, but the actual I/O operation is performed synchronously.
+The Seek method supports random access to files. Seek allows the read/write position to be moved to any position within the file. This is done with byte offset reference point parameters. The byte offset is relative to the seek reference point, which can be the beginning, the current position, or the end of the underlying file, as represented by the three members of the SeekOrigin enumeration.

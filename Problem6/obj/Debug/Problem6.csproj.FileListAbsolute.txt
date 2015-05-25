@@ -1,0 +1,5 @@
+D:\Softuni\Advanced C#\Homework Solutions\StreamsFilesHomework\Problem6\bin\Debug\Problem6.exe.config
+D:\Softuni\Advanced C#\Homework Solutions\StreamsFilesHomework\Problem6\bin\Debug\Problem6.exe
+D:\Softuni\Advanced C#\Homework Solutions\StreamsFilesHomework\Problem6\bin\Debug\Problem6.pdb
+D:\Softuni\Advanced C#\Homework Solutions\StreamsFilesHomework\Problem6\obj\Debug\Problem6.exe
+D:\Softuni\Advanced C#\Homework Solutions\StreamsFilesHomework\Problem6\obj\Debug\Problem6.pdb
